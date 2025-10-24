@@ -1,0 +1,7 @@
+{
+  "name": "Socratic Bible Study",
+  "description": "An interactive AI guide for deep, Socratic-style analysis of biblical passages using voice. Speak with a scholarly AI to explore scripture through insightful questions and contextual understanding.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
